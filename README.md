@@ -1,6 +1,6 @@
 # Luca Coduri [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-coduri-👀-44955020b) 
 
-SMTG ABOUT ME
+I have been passionate about computer science since I was young and have always had a strong desire to learn. I am constantly seeking out new technologies and projects to improve my programming skills. I am curious to explore new technologies and believe that GitHub is an excellent way to connect with other enthusiasts and contribute to exciting projects.
 
 ## 🔝 My top repos
 <div style="display:flex">
