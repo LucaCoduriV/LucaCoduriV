@@ -1,11 +1,11 @@
 # Luca Coduri [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-coduri-👀-44955020b) 
 
-SMTHG ABOUT ME
+SMTG ABOUT ME
 
-## My top repos
+## 🔝 My top repos
 
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LucaCoduriV&repo=github-webhook-server&theme=gotham&show_owner=true"/>
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=les-crepes&repo=CAREOT_APP&theme=gotham&show_owner=true"/>
+<img style="display:inline-block" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LucaCoduriV&repo=github-webhook-server&theme=gotham&show_owner=true"/>
+<img style="display:inline-block" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=les-crepes&repo=CAREOT_APP&theme=gotham&show_owner=true"/>
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LucaCoduriV&repo=rust-verlet-physics&theme=gotham&show_owner=true"/>
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LucaCoduriV&repo=HEIG-MOBILE&theme=gotham&show_owner=true"/>
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LucaCoduriV&repo=HEIG-API&theme=gotham&show_owner=true"/>
