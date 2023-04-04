@@ -55,8 +55,8 @@ I have been passionate about computer science since I was young and have always 
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=LucaCoduriV&theme=dark&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only)<br/>
-![](https://github-readme-stats.vercel.app/api?username=LucaCoduriV&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only#gh-light-mode-only)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LucaCoduriV&theme=dark&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=LucaCoduriV&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only)<br/>
 
 ---
 
