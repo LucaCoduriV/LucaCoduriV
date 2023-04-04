@@ -7,8 +7,8 @@ I have been passionate about computer science since I was young and have always 
   <a href="https://github.com/les-crepes/CAREOT_APP">
     <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=les-crepes&repo=CAREOT_APP&theme=gotham&show_owner=true">
-    </picture>
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=les-crepes&repo=CAREOT_APP&show_owner=true"/>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=les-crepes&repo=CAREOT_APP&show_owner=true"/>
+    </picture> 
   </a>
   <a href="https://github.com/LucaCoduriV/github-webhook-server"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LucaCoduriV&repo=github-webhook-server&theme=gotham&show_owner=true"/></a>
   <a href="https://github.com/LucaCoduriV/rust-verlet-physics"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LucaCoduriV&repo=rust-verlet-physics&theme=gotham&show_owner=true"/></a>
